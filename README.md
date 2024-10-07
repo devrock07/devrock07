@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm devrock</h1>
-<h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrock07&label=Profile%20views&color=0e75b6&style=flat" alt="devrock07" /> </p>
 <h2 align="center">
   <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40">GitHub IDs :
 </h2>
@@ -10,6 +6,11 @@
 > - browished
 > - zenithsenpai07
 ```
+<h1 align="center">Hi 👋, I'm devrock</h1>
+<h3 align="center">A passionate coder from India</h3>
+<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrock07&label=Profile%20views&color=0e75b6&style=flat" alt="devrock07" /> </p>
+
 - 🔭 I’m currently working on **discord bots**
 
 - 🌱 I’m currently learning **python**
