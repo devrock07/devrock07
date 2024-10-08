@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on discord bots<br>🌱 I’m currently learning python<br>📫 How to reach me devrock.alive@gmail.com<br>⚡ Fun fact i think i am funny
-
+# 💫 Github Ids:
+ ```js
+> - browished
+> - zenithsenpai07
+```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v3WTAZYSMQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/browished) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zenithsenpai07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZenithSenpai) 
