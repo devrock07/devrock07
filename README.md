@@ -7,7 +7,7 @@
   
 - Name: **Dev Bhakat** (You can call me **devrock** or **zenithsenpai**)
 
-- A **High School Student** from **India** 🇮🇳  
+- From **India** 🇮🇳  
 - Age: **18**
 
 - Good with **JavaScript**, **Node.js**, **Python**, **HTML**, **CSS**  
