@@ -7,4 +7,4 @@ Linux • Debian • Windows
 
 Building and learning.
 
-![](https://github-readme-stats.vercel.app/api?username=devrock07&theme=omni&hide_border=true&show_icons=true)
+![](https://i.ibb.co/jvB2QY18/Chat-GPT-Image-Jun-6-2026-07-19-24-PM.png)
