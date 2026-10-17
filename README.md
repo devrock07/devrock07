@@ -4,4 +4,4 @@
 JavaScript • Node.js • Python
 Linux • Debian • Windows
 ```
-![](https://i.ibb.co/jvB2QY18/Chat-GPT-Image-Jun-6-2026-07-19-24-PM.png)
+![](https://i.ibb.co/GvTRRY0x/exec-2efdaa24-8994-4464-83be-ac2758c681b2.png)
